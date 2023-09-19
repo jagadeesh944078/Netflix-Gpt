@@ -37,6 +37,10 @@
 - usePopularmoviesCustomhook
 - useTopRatedMoviesCustomhook
 - usePopularMoviesCustomhook
+- GPT Search Page
+- GPT Search Bar
+- (Bonus) Multi-Language Feature in our app
+- Integrate GPT APIs
 
 # Features
 
